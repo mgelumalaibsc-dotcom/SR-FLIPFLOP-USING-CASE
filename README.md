@@ -48,3 +48,5 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 <img width="1895" height="919" alt="CLOCK6" src="https://github.com/user-attachments/assets/8f0106f8-920d-4828-ae1f-756ec8eea313" />
 
 **RESULTS**
+
+Hence the SR flip flop is verifed using quatrus.
